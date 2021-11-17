@@ -8,7 +8,7 @@
 - Easy way to make your own JSON Based Script Hub without modifying or manual adding stuff, this app let you add it, everything you need
 
 
-###Screenshot of its UI
+### Screenshot of its UI
 ![](https://media.discordapp.net/attachments/903620122269319189/910495619062304788/unknown.png)
 
 
