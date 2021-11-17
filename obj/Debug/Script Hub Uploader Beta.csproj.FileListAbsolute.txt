@@ -1,0 +1,25 @@
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.exe.config
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.exe
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.pdb
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.AssemblyReference.cache
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script_Hub_Uploader_Beta.Form1.resources
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script_Hub_Uploader_Beta.Properties.Resources.resources
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.GenerateResource.cache
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.CopyComplete
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.exe
+C:\Users\kerle\source\repos\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.pdb
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.exe.config
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.exe
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\bin\Debug\Script Hub Uploader Beta.pdb
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script_Hub_Uploader_Beta.Form1.resources
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script_Hub_Uploader_Beta.Properties.Resources.resources
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.GenerateResource.cache
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.CoreCompileInputs.cache
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.csproj.CopyComplete
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.exe
+C:\Users\kerle\Desktop\New folder (4)\Script Hub Uploader Beta\obj\Debug\Script Hub Uploader Beta.pdb
